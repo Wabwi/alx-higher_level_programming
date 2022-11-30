@@ -3,7 +3,7 @@
 import random
 
 number = random.randint(-10000, 10000)
-last_digit = int(repr(number)[-1])
+last_digit = str(number)[-1]
 
 print("Last digit of " + str(number) + " is " + str(last_digit), end=' ' )
 
