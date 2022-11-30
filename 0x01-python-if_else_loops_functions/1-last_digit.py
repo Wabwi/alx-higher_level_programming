@@ -18,4 +18,4 @@ elif lastDigit == 0:
 elif lastDigit < 6:
     string = "and is less than 6 and not 0"
 
-print("Last digit of {:d} is {:d}".format(number, lastDigit), string)
+print(f"Last digit of {number} is {lastDigit} " + string)
