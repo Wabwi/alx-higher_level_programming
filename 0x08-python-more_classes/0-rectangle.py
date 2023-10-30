@@ -13,5 +13,5 @@ class Rectangle:
         empty
     """
 
-    pass
 
+    pass
