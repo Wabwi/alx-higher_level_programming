@@ -35,7 +35,7 @@ class Rectangle(Base):
         Calculates the area of the rectangle
 
         Returns:
-            The area of the rectangle
+            The area of the given rectangle
         """
         return self.width * self.height
 
