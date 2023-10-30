@@ -66,7 +66,7 @@ class Rectangle(Base):
 
     def update(self, *args, **kwargs):
         """
-        Updates rectangle class
+        Updates to rectangle class
 
         Attribute:
             args (list): inputted arguments to updating rectangle class
