@@ -12,9 +12,10 @@ class Square(Rectangle):
     """
     Class Square inherits from Rectangle
     """
+
     def __init__(self, size, x=0, y=0, id=None):
         """
-        Class Constructor for Square
+        Class Constructor for the Square
 
         Attribute:
             size (int): The size of the square
