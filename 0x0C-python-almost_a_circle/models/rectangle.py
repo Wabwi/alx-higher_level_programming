@@ -41,7 +41,7 @@ class Rectangle(Base):
 
     def display(self):
         """
-        Prints the # char Rectangle
+        Prints the # char of Rectangle
         """
         for i in range(self.y):
             print()
