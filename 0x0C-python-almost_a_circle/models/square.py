@@ -37,7 +37,7 @@ class Square(Rectangle):
 
     def update(self, *args, **kwargs):
         """
-        Updates Square class
+        Updates the Square class
 
         Attribute:
             args (list): inputted arguments to updating rectangle class
