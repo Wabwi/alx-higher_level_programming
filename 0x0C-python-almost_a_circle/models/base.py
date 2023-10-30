@@ -47,7 +47,7 @@ class Base:
     @classmethod
     def save_to_file(cls, list_objs):
         """
-        Writes the json string repressentation list object to a file
+        Writes json string repressentation list object to a file
 
         Attribute:
             list_objs (list): object list to save
