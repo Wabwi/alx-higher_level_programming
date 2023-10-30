@@ -144,7 +144,7 @@ class Rectangle(Base):
     @property
     def height(self):
         """
-        Property method for height value
+        Property method for the height value
 
         Return:
             Private value height value
