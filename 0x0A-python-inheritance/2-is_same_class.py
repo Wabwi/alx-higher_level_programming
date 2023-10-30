@@ -1,6 +1,12 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+"""
+Created on Oct 2023
+
+@author: Wabwi Ibrahim
+"""
+
 
 def is_same_class(obj, a_class):
     """
