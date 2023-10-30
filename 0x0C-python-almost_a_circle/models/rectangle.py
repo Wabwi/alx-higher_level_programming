@@ -54,7 +54,7 @@ class Rectangle(Base):
 
     def __str__(self):
         """
-        str method for class Rectangle
+        str method for the class Rectangle
 
         Return:
             The string: [class_name] (id) x/y - width/height
