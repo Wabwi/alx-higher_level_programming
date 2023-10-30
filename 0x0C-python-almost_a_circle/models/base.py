@@ -102,7 +102,7 @@ class Base:
         Returns a list of the instances
 
         Return:
-            A list of instances
+            A list of the instances
         """
         file_name = cls.__name__ + ".json"
         json_obj = []
