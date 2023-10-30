@@ -444,6 +444,3 @@ guillaume@ubuntu:~/0x0A$
 ```
 *No test cases needed*
 ---
-
-## Author
-* **Robinson Montes** - [mecomonteshbtn](https://github.com/mecomonteshbtn)
