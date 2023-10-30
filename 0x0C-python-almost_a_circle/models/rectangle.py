@@ -100,7 +100,7 @@ class Rectangle(Base):
 
     def to_dictionary(self):
         """
-        Creates a dictionary representation for Rectangle attributes
+        Creates a dictionary representation for the Rectangle attributes
 
         Return:
             A dictionary representation
