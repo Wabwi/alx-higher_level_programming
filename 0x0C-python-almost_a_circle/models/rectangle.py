@@ -110,7 +110,7 @@ class Rectangle(Base):
 
     def to_csv(self):
         """
-        Creates a list with Rectangle attributes
+        Creates a list with the Rectangle attributes
 
         Return:y
             A Rectangle attributes' list for csv file
