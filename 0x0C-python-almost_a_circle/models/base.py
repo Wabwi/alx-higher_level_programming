@@ -81,7 +81,7 @@ class Base:
     @classmethod
     def create(cls, **dictionary):
         """
-        Returns an instance with all attributes already set
+        Returns an instance with all the attributes already set
 
         Attribute:
             dictionary (dict): inooutted dictionary
