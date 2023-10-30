@@ -99,7 +99,7 @@ class Base:
     @classmethod
     def load_from_file(cls):
         """
-        Returns a list of instances
+        Returns a list of the instances
 
         Return:
             A list of instances
