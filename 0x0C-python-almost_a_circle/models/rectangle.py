@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun  5 15:43:09 2020
+Created on 2023
 
-@author: meco
+@author: wabwi ibrahim
 """
 from models.base import Base
 
@@ -12,6 +12,7 @@ class Rectangle(Base):
     """
     Class Rectangle
     """
+
     def __init__(self, width, height, x=0, y=0, id=None):
         """
         Class Constructor for Rectangle
